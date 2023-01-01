@@ -10,7 +10,7 @@ I am MERN Stack developer and studying in my 3rd Year (B.E.)
 
 # 💫 About Me:
 
-🔭 I’m currently working on **MERN** Stack<br>👯 I’m looking to collaborate on **Web Dev Projects**<br>🤝 I’m looking for help with **![Web3](./images/blockchain.png) , DevOps**<br>🌱 I’m currently learning **Three.js, ![Web3](./images/blockchain.png), ![Cloud](./images/cloud.png)**<br>💬 Ask me about **![React](./images/react.png), ![Node.js](./images/nodejs.png), ![Express.js](./images/express.png), ![MongodB](./images/mongodb.png)**<br>⚡ Fun fact I love to work and collaborate for projects that solve real life problem
+🔭 I’m currently working on **MERN** Stack<br>👯 I’m looking to collaborate on **Web Dev Projects**<br>🤝 I’m looking for help with **Web3 , DevOps**<br>🌱 I’m currently learning **Three.js, 🕸️ Web3, ☁️ Cloud**<br>💬 Ask me about ** React, Node.js, Express.js, MongodB**<br>⚡ Fun fact I love to work and collaborate for projects that solve real life problem
 
 ## 🌐 Socials:
 
